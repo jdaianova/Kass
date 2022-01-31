@@ -56,6 +56,15 @@ a {
   margin-left: 35px;
 }
 
+.language {
+	display: flex;
+	flex-direction: row;
+}
+
+.language-ru {
+	color: #00BFFF;
+}
+
 .menu-list-item:hover {
   text-decoration: underline;
 }
